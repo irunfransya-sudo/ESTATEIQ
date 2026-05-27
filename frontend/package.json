@@ -1,0 +1,5 @@
+{
+  "scripts": {"dev": "vite", "build": "vite build", "preview": "vite preview"},
+  "dependencies": {"@vitejs/plugin-vue": "latest", "vite": "latest", "vue": "latest", "vue-router": "latest", "axios": "latest", "chart.js": "latest", "vue-chartjs": "latest"},
+  "devDependencies": {}
+}
